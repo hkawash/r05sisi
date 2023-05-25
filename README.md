@@ -8,9 +8,9 @@
 
 - [パート1（データの収集） (5/18)](slide/SISIntro2023_kawashima-01.pdf)
 - [パート2（データと統計 + データとプログラム：基礎編) (5/25)](slide/SISIntro2023_kawashima-02.pdf)
+- [パート3（データとプログラム：実践編） (6/1)](slide/SISIntro2023_kawashima-03.pdf)
 
 <!-- 
-- [パート3（データとプログラム：実践編） (6/1)](slide/SISIntro2023_kawashima-03.pdf)
 - [パート4（データと機械学習） (6/29)](slide/SISIntro2023_kawashima-04.pdf) -->
 
 ## 補足
